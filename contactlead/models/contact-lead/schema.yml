@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+- name: salesforce_data
+  tables:
+  - name: lead
+  - name: contact
+  - name: account
